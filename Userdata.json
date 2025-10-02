@@ -13,12 +13,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
-]
-[
     {
         "device_id": "523737d0469b0b60",
         "username": "MAYUR",
         "password": "519",
         "expirydate": "5-1-2026",
-        "Allowoffline": true
-    },
+        "Allowoffline": false
+    }
