@@ -19,7 +19,7 @@
         "username": "mayur",
         "password": "890",
         "expirydate": "15-11-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 
     
